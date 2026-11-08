@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+*.db
+.venv/
+venv/
+
+# локальные артефакты прогона и видео
+demo_*.mp4
+*.log
+e2e_live_test.py
+live_demo_drive.py
+debug_*.png
